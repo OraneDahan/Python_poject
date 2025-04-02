@@ -1,7 +1,7 @@
 import finder
 def main():
-    data - finder.getData()
+    data = finder.getData()
     finder.find(data)
-    if __name__ == "__main":
+    
+    if __name__ == "__main__":
         main()
-        
